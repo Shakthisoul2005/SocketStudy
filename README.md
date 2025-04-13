@@ -114,6 +114,7 @@ if __name__ == '__main__':
     client_program()
 ```
 ## output:
-![Screenshot 2025-04-11 214246](https://github.com/user-attachments/assets/1af7d8cb-c86e-43a9-bb2c-aa6b58b6dba3)
+![image](https://github.com/user-attachments/assets/b5292d88-965c-4e46-b7f4-1b9162d0131c)
+
 ## Result:
 Thus the study of Socket Programming Completed Successfully
